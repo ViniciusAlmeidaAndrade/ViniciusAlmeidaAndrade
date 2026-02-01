@@ -7,11 +7,11 @@ Atualmente expandindo minhas habilidades para atuar também como Fullstack.
 
 ## 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,c,js,html,css,mysql,postgres,sqlite,git,github" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,c,js,nodejs,html,css,mysql,postgres,sqlite,git,github" />
 
----
 
 <!--
+---
 ## 🚀 Projetos em Destaque
 
 ### 🔹 CRUD FastAPI + SQLAlchemy
@@ -29,10 +29,13 @@ Consultas SQL otimizadas e manipulação de bases volumosas.
 ---
 -->
 
+<!--
 ## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ViniciusAlmeidaAndrade&theme=algolia&no-frame=true&row=1&column=6" /> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=ViniciusAlmeidaAndrade&theme=algolia&no-frame=true&row=1&column=6" />
+Não estava funcionando consultar dps ===> https://github.com/ryo-ma/github-profile-trophy/issues/396
 
+-->
 ---
 
 ## 📊 GitHub Stats
