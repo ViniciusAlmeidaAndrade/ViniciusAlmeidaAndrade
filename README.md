@@ -41,8 +41,8 @@ Não estava funcionando consultar dps ===> https://github.com/ryo-ma/github-prof
 ## 📊 GitHub Stats
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlmeidaAndrade&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlmeidaAndrade&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=ViniciusAlmeidaAndrade&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ViniciusAlmeidaAndrade&layout=compact&theme=transparent&hide_border=true"/>
 </div>
 
 ---
