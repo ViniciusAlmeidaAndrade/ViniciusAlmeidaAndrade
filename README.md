@@ -29,11 +29,14 @@ Consultas SQL otimizadas e manipulação de bases volumosas.
 ---
 -->
 
-<!--
 ## 🏆 GitHub Trophies
+<img src="https://trophygh.kolioaris.xyz/?username=ViniciusAlmeidaAndrade&theme=algolia&no-frame=true&row=1&column=6" /> 
+
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=ViniciusAlmeidaAndrade&theme=algolia&no-frame=true&row=1&column=6" /> 
 
 Não estava funcionando consultar dps ===> https://github.com/ryo-ma/github-profile-trophy/issues/396
+https://github.com/ryo-ma/github-profile-trophy/blob/master/README.md
 
 -->
 ---
