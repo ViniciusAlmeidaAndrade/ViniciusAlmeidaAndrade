@@ -10,9 +10,9 @@ Atualmente direciono minha evolução para Desenvolvimento Backend, com foco em 
 
 ## 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postman,js,nodejs,html,css,mysql,postgres,sqlite,git,github" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postman,java,mysql,postgres,sqlite,git,github" />
 
-- Backend: Python, FastAPI, Node.js, Express.js, Java
+- Backend: Python, FastAPI, Java
 - Banco de dados: SQL, PostgreSQL, MySQL, SQLite, SQLAlchemy
 - Ferramentas: Git, GitHub, Postman, Docker
 - Conceitos: APIs REST, POO, Estruturas de Dados, Modelagem de Dados, Documentação Técnica
@@ -24,9 +24,11 @@ Atualmente direciono minha evolução para Desenvolvimento Backend, com foco em 
 
 Sistema desenvolvido em Java com foco em doações, reaproveitamento de recursos, controle de itens, solicitações e regras de negócio.
 
+<!--
 ### MVP E-commerce
 
 Projeto backend com Node.js e Express.js, aplicado à construção de uma API para e-commerce com organização em camadas.
+-->
 
 ### Sistema de Clientes e Pedidos
 
